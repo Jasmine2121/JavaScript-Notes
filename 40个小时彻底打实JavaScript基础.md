@@ -102,12 +102,30 @@ let 1box;//不可以，但是可以box1
 
 ```javascript
 let studentInformation;
+let studentInfo
+//常用缩写：add/insert/create/new(新增)/update(修改)/delete(删除)/del/remove/rm/sel/select/query/get(查询)/info(信息)
+
+//不正确
+let xueshengInfo;
+let xueshengxinxi;
+let xsxx;
+```
+
+- 不能使用关键字和保留字
+
+```javascript
+//当下有特殊含义的是关键字，未来可能成为关键字的叫保留字
+var let const function ...
+
+var var = 10 //不行
+var var10 = 10 //不行
+var _var = 10 //不行
 ```
 
 
-
-
 ### 3-4 JS中的数据类型分类
+
+<img src="40%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%BD%BB%E5%BA%95%E6%89%93%E5%AE%9EJavaScript%E5%9F%BA%E7%A1%80.assets/image-20200314172335856.png" alt="image-20200314172335856" style="zoom:80%;" />
 
 
 
