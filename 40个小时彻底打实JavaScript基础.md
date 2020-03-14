@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ..\JavaScript基础\图片笔记
----
-
 # 40个小时彻底打实JavaScript基础
 
 
@@ -26,7 +22,7 @@ typora-copy-images-to: ..\JavaScript基础\图片笔记
 
 ## 2 浏览器内核和控制台
 
-<img src="T:\JavaScript基础\图片笔记\gVO61mGedCDM58Q.png" alt="image-20200314125732767.png" style="zoom:33%;" /> 				 <img src="T:\JavaScript基础\图片笔记\Mc5JeG6bLnXFZRS.png" alt="image-20200314130923128.png" style="zoom: 33%;" /> 
+<img src="https://i.loli.net/2020/03/14/gVO61mGedCDM58Q.png" alt="image-20200314125732767.png" style="zoom:33%;" /> 				 <img src="https://i.loli.net/2020/03/14/Mc5JeG6bLnXFZRS.png" alt="image-20200314130923128.png" style="zoom:33%;" />
 
 ### 2-1谷歌浏览器控制台（F12/Fn+F12）
 
@@ -38,9 +34,9 @@ typora-copy-images-to: ..\JavaScript基础\图片笔记
   - Manifest：离线缓存
   - Service Workers:
   - Clear Storage:
-- Storage: 本地存储（进行存储优化）<img src="T:\JavaScript基础\图片笔记\2EZNauLGcHxRWqo.png" alt="image-20200314133044331.png" style="zoom:33%;" />
-- Cookies: <img src="T:\JavaScript基础\图片笔记\jPSwkRpcVd4Nfm6.png" alt="image-20200314143338701.png" style="zoom:33%;" />
-- Frames: 重点，网页图片都在这 <img src="T:\JavaScript基础\图片笔记\SMhtyBr6xOA1JQq.png" alt="image-20200314143554305.png" style="zoom:33%;" />
+- Storage: 本地存储（进行存储优化）<img src="https://i.loli.net/2020/03/14/2EZNauLGcHxRWqo.png" alt="image-20200314133044331.png" style="zoom:33%;" />
+- Cookies: <img src="https://i.loli.net/2020/03/14/jPSwkRpcVd4Nfm6.png" alt="image-20200314143338701.png" style="zoom:33%;" />
+- Frames: 重点，网页图片都在这 <img src="https://i.loli.net/2020/03/14/SMhtyBr6xOA1JQq.png" alt="image-20200314143554305.png" style="zoom:33%;" />
 
 
 
@@ -50,11 +46,11 @@ typora-copy-images-to: ..\JavaScript基础\图片笔记
 
 ### 3-1 JS的组成和变量
 
-<img src="T:\JavaScript基础\图片笔记\bsxt1U7Z9HKuY6p.png" alt="image-20200314144118469.png" style="zoom:67%;" />
+<img src="https://i.loli.net/2020/03/14/bsxt1U7Z9HKuY6p.png" alt="image-20200314144118469.png" style="zoom:80%;" />
 
 页面刷新
 
-<img src="T:\JavaScript基础\图片笔记\eDjPl9AwFGZaJHp.png" alt="image-20200314150403401.png" style="zoom:80%;" />  
+<img src="https://i.loli.net/2020/03/14/eDjPl9AwFGZaJHp.png" alt="image-20200314150403401.png" style="zoom:80%;" />  
 
 
 ### 3-2 创建变量的几种方式
@@ -86,7 +82,7 @@ typora-copy-images-to: ..\JavaScript基础\图片笔记
 
 ### 3-3 JS命名规范
 
-<img src="T:\JavaScript基础\图片笔记\CEfgOryc27m9NoK.png" alt="image-20200314161837773.png" style="zoom:80%;" />
+<img src="https://i.loli.net/2020/03/14/CEfgOryc27m9NoK.png" alt="image-20200314161837773.png" style="zoom:80%;" />
 
 - 严格区分大小写
 ```javascript
